@@ -1,0 +1,4 @@
+audio_file,start_time,volume,trim_start,duration,text
+svg01.mp3,00:00:00,1.0,0,43,"Welcome to this tutorial. Replace this sentence with the complete narration for slot one."
+svg02.mp3,00:00:43,1.0,0,43,"Replace this sentence with the complete narration for slot two."
+svg03.mp3,00:01:26,1.0,0,45,"Replace this sentence with the complete narration for slot three."
